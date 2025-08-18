@@ -1,6 +1,5 @@
-import React, { useState, useEffect } from "react";
-import { Link } from "react-router-dom";
-import { Search, ExternalLink, Calendar, Tag } from "lucide-react";
+import { useState, useEffect } from "react";
+import { ExternalLink, Calendar, Tag } from "lucide-react";
 import dummyData from "../utils/dummy";
 
 const HomePage = () => {

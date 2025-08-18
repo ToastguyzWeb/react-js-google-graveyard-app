@@ -3,7 +3,7 @@ import AboutUsPage from "./about_us/AboutUs";
 import TermsOfUsePage from "./terms_of_use/TermsOfUse";
 import PrivacyPolicyPage from "./privacy_policy/PrivacyPolicy";
 import NotFoundPage from "./not_found/not_found";
-import HomePage from "./home/home";
+import HomePage from "./home/Home";
 import Layout from "./components/layout";
 
 const App = () => {
