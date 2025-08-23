@@ -85,4 +85,4 @@ Check out the live application:
 ## 🚀 Deployment
 This app has been deployed using **Netlify**
 
-*Built with ❤️ using React and TailwindCSS by **[Toastguyz Team](https://in.linkedin.com/company/toastguyz)***
+*Built with ❤️ using React and TailwindCSS*
